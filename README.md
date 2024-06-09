@@ -28,5 +28,8 @@ pip install -r requirements.txt
 python -m unittest discover -s tests
 ```
 
+## Install Models
+
+python -m spacy download en_core_web_sm
 
 
