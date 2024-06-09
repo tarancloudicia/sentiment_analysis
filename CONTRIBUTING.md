@@ -1,7 +1,4 @@
 
-##### `CONTRIBUTING.md`
-
-```markdown
 # Contributing to Sentiment Analysis and Topic Modeling
 
 ## Code of Conduct
